@@ -1,0 +1,7 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+export LD_LIBRARY_PATH=$HOME/ransomew4re/.data/binaries/lib/arm:$LD_LIBRARY_PATH
+umask 000
+cd $HOME/ransomew4re/.data/binaries
+exec java -Xmx1024m -Djava.io.tmpdir=$HOME/ransomew4re/ -jar $HOME/ransomew4re/.data/binaries/apktool-2.2.2.jar -p $HOME/ransomew4re/ "$@"
+
