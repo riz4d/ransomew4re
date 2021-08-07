@@ -41,7 +41,7 @@ python3 rizad404.py
   - Pillow
 
 ### Support Me
-Instagram [@rizad__x96](https://instagram.com/rizad__x96)
+Instagram [@rizad__x96](https://instagram.com/rizad__x96)<br>
 Twitter [@rizad_x96](https://instagram.com/rizad_x96)
 ### Credit's
 Copyright © 2021 by [rizad](https://github.com/riz4d)
