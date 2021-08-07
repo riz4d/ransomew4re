@@ -20,20 +20,14 @@ alert_desc = ""
 key_pass = ""
 
 def banner():
-    print(w+d+"      ,,                ,,")
-    print(w+d+"    (((((              )))))")
-    print(w+d+"   ((((((              ))))))")
-    print(w+d+"   ((((((              ))))))")
-    print(w+d+"    ((((("+w+b+",r@@@@@@@@@@e,"+w+d+")))))")
-    print(w+d+"      ((("+w+b+"@@@@@@@@@@@@@@@@"+w+d+")))    "+w+b+"ransomew4re - version 1.0")
-    print(w+b+"      \@@/"+r+",:::,"+w+b+"\/"+r+",:::,"+w+b+"\@@       "+w+"------------------")
-    print(w+b+"     /@@@|"+r+":::::"+w+b+"||"+r+":::::"+w+b+"|@@@\\     "+w+"Author by "+y+"@rizad")
-    print(w+b+"    / @@@\\"+r+"':::'"+w+b+"/\\"+r+"':::'"+w+b+"/@@@ \\    "+w)
-    print(w+b+"   /  /@@@@@@@//\\\@@@@@@@\  \\   "+w+"The author is not responsible")
-    print(w+b+"  (  /  '@@@@@====@@@@@'  \  )  "+w+"for any issues or damage")
-    print(w+b+"   \(     /          \     )/   "+w+"caused by this program")
-    print(w+b+"     \   (            )   /")
-    print(w+b+"          \          /"+w)
+    
+    print("ransomew4re - version 1.0")
+    print("+w+"Author by "+y+"@rizad")
+    
+    print("+w+"The author is not responsible")
+    print("+w+"for any issues or damage")
+    print("+w+"caused by this program")
+    print("×××××××××××××××××××××××××××××××××××××××××××××")
 
 def writefile(file,old,new):
     while True:
